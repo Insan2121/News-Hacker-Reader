@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/22b2ee25f69647e9e685178a7e35ab07/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/insan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/0710cf7e063f886fbc6c24ace75f5fd2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a3ed2c7eede828af9cd33cad209d1e83/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0a5b6058e51f8b2da68934b62ee2ecb0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/fa05a9cd823f8a5e110a868b74a874b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/d55b32981f20d121cf757d0e1721a5cf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f1df6c36b9eb91a4520a568abe7ff91d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/effd1e97e9f5c64d0fd2880e2c0f9980/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f81e9ba5b5ce86d1c96319a107683fad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/73064b7a06d00d480433911544d378d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/c0b3ca377a8516ac9c465b96e05e5773/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f983255614e22081bf2942f4c531a693/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c9230759f2ff41ddd0b4bf815d8c3ad0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/384fc9b64ace7740c98c9a55fb52cbd7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5344356b85f0bdd44af9f55ad39ed6a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/90f963e2eba943b18f69d96b390ab9c5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/524424a484af06f446177dad7f919691/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e9a2d28fa9166f4d8ee069794f5d48c5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/insan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f0a3a798bb952fbacb060ebc4db8463d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/40ab5662de9a91294619ab04795b9f93/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/629bb56aed67e077882d48ad1d9020cd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/932cb7a5df3309bca483027d6cbe56de/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/insan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/42d11f399727e37d638bc5a5c59ac1df/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/insan/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/9d2c67de85c56bd547c52aeebde9c19b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/insan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6488801a0ea340581dd11fbb19f4e73d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/insan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/139a2d3b3deb44a7f6de6ad7b30ed82b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/0faa77d6d60d1137378622c878ffa9dc/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml
+		ADDED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml
+		ADDED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/insan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/0710cf7e063f886fbc6c24ace75f5fd2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/insan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/0710cf7e063f886fbc6c24ace75f5fd2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/90f963e2eba943b18f69d96b390ab9c5/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/90f963e2eba943b18f69d96b390ab9c5/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/524424a484af06f446177dad7f919691/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/524424a484af06f446177dad7f919691/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/90f963e2eba943b18f69d96b390ab9c5/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.insan.timerdemo.MainActivity
+ADDED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml
+INJECTED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/22b2ee25f69647e9e685178a7e35ab07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/22b2ee25f69647e9e685178a7e35ab07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/insan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/0710cf7e063f886fbc6c24ace75f5fd2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/insan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/0710cf7e063f886fbc6c24ace75f5fd2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a3ed2c7eede828af9cd33cad209d1e83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a3ed2c7eede828af9cd33cad209d1e83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0a5b6058e51f8b2da68934b62ee2ecb0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0a5b6058e51f8b2da68934b62ee2ecb0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/fa05a9cd823f8a5e110a868b74a874b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/fa05a9cd823f8a5e110a868b74a874b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/d55b32981f20d121cf757d0e1721a5cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/d55b32981f20d121cf757d0e1721a5cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f1df6c36b9eb91a4520a568abe7ff91d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f1df6c36b9eb91a4520a568abe7ff91d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/effd1e97e9f5c64d0fd2880e2c0f9980/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/effd1e97e9f5c64d0fd2880e2c0f9980/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f81e9ba5b5ce86d1c96319a107683fad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f81e9ba5b5ce86d1c96319a107683fad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/73064b7a06d00d480433911544d378d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/73064b7a06d00d480433911544d378d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/c0b3ca377a8516ac9c465b96e05e5773/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/c0b3ca377a8516ac9c465b96e05e5773/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f983255614e22081bf2942f4c531a693/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f983255614e22081bf2942f4c531a693/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c9230759f2ff41ddd0b4bf815d8c3ad0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c9230759f2ff41ddd0b4bf815d8c3ad0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/384fc9b64ace7740c98c9a55fb52cbd7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/384fc9b64ace7740c98c9a55fb52cbd7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5344356b85f0bdd44af9f55ad39ed6a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5344356b85f0bdd44af9f55ad39ed6a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/90f963e2eba943b18f69d96b390ab9c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/90f963e2eba943b18f69d96b390ab9c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/524424a484af06f446177dad7f919691/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/524424a484af06f446177dad7f919691/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e9a2d28fa9166f4d8ee069794f5d48c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e9a2d28fa9166f4d8ee069794f5d48c5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/insan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f0a3a798bb952fbacb060ebc4db8463d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/insan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f0a3a798bb952fbacb060ebc4db8463d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/40ab5662de9a91294619ab04795b9f93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/40ab5662de9a91294619ab04795b9f93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/629bb56aed67e077882d48ad1d9020cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/629bb56aed67e077882d48ad1d9020cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/932cb7a5df3309bca483027d6cbe56de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/932cb7a5df3309bca483027d6cbe56de/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/insan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/42d11f399727e37d638bc5a5c59ac1df/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/insan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/42d11f399727e37d638bc5a5c59ac1df/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/insan/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/9d2c67de85c56bd547c52aeebde9c19b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/insan/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/9d2c67de85c56bd547c52aeebde9c19b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/insan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6488801a0ea340581dd11fbb19f4e73d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/insan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6488801a0ea340581dd11fbb19f4e73d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/insan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/139a2d3b3deb44a7f6de6ad7b30ed82b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/insan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/139a2d3b3deb44a7f6de6ad7b30ed82b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/0faa77d6d60d1137378622c878ffa9dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/insan/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/0faa77d6d60d1137378622c878ffa9dc/AndroidManifest.xml:20:5-44
+INJECTED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml
+INJECTED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml
+		ADDED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml
+		ADDED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/insan/AndroidStudioProjects2/udemyprojects/Timer Demo/app/src/main/AndroidManifest.xml
